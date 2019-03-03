@@ -18,4 +18,8 @@ I follow the belowing steps to do data preparation.
 * lematize  
 * remove stop words  
 * vectorize  
-```      
+```  
+
+**Regression**
+
+In this part, I seem the full dataset as training data. Apply GBDT to the dataset.
