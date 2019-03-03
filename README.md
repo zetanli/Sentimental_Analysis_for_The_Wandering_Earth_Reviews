@@ -24,4 +24,6 @@ I follow the belowing steps to do data preparation.
 
 In this part, I seem the full dataset as training data. Apply GBDT to the dataset and compute mean absolute percentage error.
 
+**Next Step**
 
+In next steps, I will scrap more data from the imdb website. Use 2-bigram for regression and implement cross validation as well as tunning some parameters. 
