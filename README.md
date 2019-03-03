@@ -18,4 +18,4 @@ I follow the belowing steps to do data preparation.
 - lematize  
 - remove stop words  
 - vectorize  
-        '''
+'''        
