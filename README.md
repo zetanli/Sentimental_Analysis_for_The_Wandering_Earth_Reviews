@@ -11,10 +11,10 @@ Please see the code directly, which is not hard to read.
 **Data Preparation**
 
 I follow the belowing steps to do data preparation.
- 
+'''  
 - remove characters like punctuation, numbers, other characters.  
 - tokenize  
 - lematize  
 - remove stop words  
 - vectorize  
- 
+ '''
