@@ -12,7 +12,7 @@ Please see the code directly, which is not hard to read.
 
 I follow the belowing steps to do data preparation.
  
-\circ remove characters like punctuation, numbers, other characters.
+\cdot remove characters like punctuation, numbers, other characters.
 \circ tokenize
 \circ lematize
 \circ remove stop words
