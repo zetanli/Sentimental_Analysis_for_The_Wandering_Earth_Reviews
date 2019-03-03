@@ -22,4 +22,6 @@ I follow the belowing steps to do data preparation.
 
 **Regression**
 
-In this part, I seem the full dataset as training data. Apply GBDT to the dataset.
+In this part, I seem the full dataset as training data. Apply GBDT to the dataset and compute mean absolute percentage error.
+
+
