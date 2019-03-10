@@ -29,6 +29,6 @@ In this part, I seem the full dataset as training data. Apply GBDT to the datase
 
 **Classification**
 
-Based on the distribution plot of the score. The score shows a skewed distribution. It seems not possible that the score follows a normal distribution. Thus it is not proper to use a OLS based GBDT to do regression. The score is a categorical variable indeed, which is another reason that we choose classification method. 
+Based on the distribution plot of the score. The score shows a skewed distribution. It seems not possible that the score follows a normal distribution. Thus it is not proper to use an OLS-based GBDT to do regression. The score is a categorical variable indeed, which is another reason that we choose classification method. 
 
 The variable was divided into 3 class, 1-4 as don't like, 5-7 as medium, 8-10 as very like. I chose a simple but efficient classification method, multinomial regression. 
